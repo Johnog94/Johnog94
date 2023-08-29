@@ -5,7 +5,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> Computational Thinking with Algorithims </b>
-  - [Algorithim Benchmarking in Java]()
+  - [Algorithim Benchmarking in Java](https://github.com/Johnog94/Algorithm-Benchmarking-in-Java)
 - <b> Web Applications Development </b>
   - [Sports Ecommerce Web App]() 
 - <b> Java / OOP </b>

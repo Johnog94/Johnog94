@@ -4,20 +4,20 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b> Computational Thinking with Algorithims </b>
+- <b>Computational Thinking with Algorithims </b>
   - [Algorithim Benchmarking in Java](https://github.com/Johnog94/Algorithm-Benchmarking-in-Java)
 - <b> Web Applications Development </b>
-  - [Sports Ecommerce Web App]() 
+  - [Sports Ecommerce Web App](https://github.com/Johnog94/Sports-Ecommerce-Web-App) 
 - <b> Java / OOP </b>
-  - [N-Gram Frequncey Builder]()
-  - [Multi-Threaded Indexing API]()
-- <b> Database Design and Development </b>
-  - [Commercial Vetenary Database Project]()
+  - [N-Gram Frequncey Builder](https://github.com/Johnog94/N-Gram-Frequency-Builder)
+  - [Multi-Threaded Indexing API)](https://github.com/Johnog94/Multi-Threaded-Indexing-API)
+- <b>Database Design and Development</b>
+  - [Commercial Vetenary Database Project](https://github.com/Johnog94/Commercial-Veterinary-Database)
 - <b> Network Technologies </b>
-  - [Network Chat Application (Java Socket API)]()
+  - [Network Chat Application (Java Socket API)](https://github.com/Johnog94/Network-Chat-Application-Java-Socket-API-)
 - <b> C# </b>
-  - [Restuarant POS]()
-  - [Training Booking System]()
+  - [Restuarant POS](https://github.com/Johnog94/Restaurant-POS)
+  - [Training Booking System](https://github.com/Johnog94/Training-Booking-System)
 
 
 <h2> 🤳 Connect with me:</h2>

@@ -10,7 +10,7 @@
   - [Sports Ecommerce Web App](https://github.com/Johnog94/Sports-Ecommerce-Web-App) 
 - <b> Java / OOP </b>
   - [N-Gram Frequncey Builder](https://github.com/Johnog94/N-Gram-Frequency-Builder)
-  - [Multi-Threaded Indexing API)](https://github.com/Johnog94/Multi-Threaded-Indexing-API)
+  - [Multi-Threaded Indexing API](https://github.com/Johnog94/Multi-Threaded-Indexing-API)
 - <b>Database Design and Development</b>
   - [Commercial Vetenary Database Project](https://github.com/Johnog94/Commercial-Veterinary-Database)
 - <b> Network Technologies </b>

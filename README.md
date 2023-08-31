@@ -7,7 +7,8 @@
 - <b>Computational Thinking with Algorithims </b>
   - [Algorithim Benchmarking in Java](https://github.com/Johnog94/Algorithm-Benchmarking-in-Java)
 - <b> Web Applications Development </b>
-  - [Sports Ecommerce Web App](https://github.com/Johnog94/Sports-Ecommerce-Web-App) 
+  - [Sports Ecommerce Web App](https://github.com/Johnog94/Sports-Ecommerce-Web-App)
+  - [Web Page Background Animation](https://github.com/Johnog94/Web-Page-Background-Animation/tree/main) 
 - <b> Java / OOP </b>
   - [N-Gram Frequncey Builder](https://github.com/Johnog94/N-Gram-Frequency-Builder)
   - [Multi-Threaded Indexing API](https://github.com/Johnog94/Multi-Threaded-Indexing-API)

@@ -1,3 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Title</title>
+  <style>
+    body {
+      background-color: navy; /* Set the background color to navy */
+      color: white; /* Set text color to white */
+    }
+
+    h1, h2, h3 {
+      color: white; /* Set header text color to white */
+    }
+
+    a {
+      color: white; /* Set link text color to white */
+    }
+
+    a:hover {
+      text-decoration: underline; /* Add underline on hover for links */
+    }
+
+    img {
+      filter: invert(1); /* Invert the color of social icons to make them white */
+    }
+  </style>
+</head>
+<body>
 <h1> Hi, I'm Jonathan! <br/><a href="https://github.com/Johnog94">Software Developer</a>, <a href="https://www.linkedin.com/in/jgriffey94/">IT Recruiter</a> </h1>
 
 <h3> I am a IT recruitment Consultant based in Shannon, Co.Clare, Ireland and a part time student who is currently doing a HDip in Software Development online at ATU Galway. I have also previously completed a Master's in Information System's Management from NUIG </h3>
@@ -30,3 +60,7 @@
 [twitter]: https://twitter.com/johnog94/
 [instagram]: https://www.instagram.com/johnogriffey94/
 [linkedin]: https://www.linkedin.com/in/jgriffey94/
+
+
+</body>
+</html>

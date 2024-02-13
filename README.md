@@ -1,11 +1,11 @@
 
 <h1> Hi, I'm Jonathan! <br/><a href="https://github.com/Johnog94">Software Developer</a>, <a href="https://www.linkedin.com/in/jgriffey94/">IT Recruiter</a> </h1>
 
-<h3> I am a Former IT recruitment Consultant from Co.Clare, Ireland, and a software development  student who is currently doing an HDip in Software Development online at ATU Galway. I have also previously completed a Master's in Information System Management from NUIG </h3>
+<h3> I am a former IT recruitment Consultant from Co.Clare, Ireland, and a software development student who has just completed an HDip in Software Development from ATU Galway. I have also previously completed a Master's in Information System Management from NUIG </h3>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Computational Thinking with Algorithms </b>
+- <b> Computational Thinking with Algorithms </b>
   - [Algorithim Benchmarking in Java](https://github.com/Johnog94/Algorithm-Benchmarking-in-Java)
 - <b> Web Applications Development </b>
   - [Sports Ecommerce Web App](https://github.com/Johnog94/Sports-Ecommerce-Web-App)
@@ -15,7 +15,7 @@
 - <b> Java / OOP </b>
   - [N-Gram Frequency Builder](https://github.com/Johnog94/N-Gram-Frequency-Builder)
   - [Multi-Threaded Indexing API](https://github.com/Johnog94/Multi-Threaded-Indexing-API)
-- <b>Database Design and Development</b>
+- <b> Database Design and Development </b>
   - [Commercial Veterinary Database Project](https://github.com/Johnog94/Commercial-Veterinary-Database)
 - <b> Network Technologies </b>
   - [Network Chat Application (Java Socket API)](https://github.com/Johnog94/Network-Chat-Application-Java-Socket-API-)

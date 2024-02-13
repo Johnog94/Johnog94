@@ -12,6 +12,7 @@
   - [Web Page Background Animation](https://github.com/Johnog94/Web-Page-Background-Animation/tree/main)
 - <b> Mobile Applications </b>
   - [Country-Weather-Exchange Rate-App](https://github.com/Johnog94/Country-Weather-Exchange-Rate-App)
+- <b> Java / OOP </b>
   - [N-Gram Frequency Builder](https://github.com/Johnog94/N-Gram-Frequency-Builder)
   - [Multi-Threaded Indexing API](https://github.com/Johnog94/Multi-Threaded-Indexing-API)
 - <b>Database Design and Development</b>

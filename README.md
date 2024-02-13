@@ -15,6 +15,7 @@
 - <b> Java / OOP </b>
   - [N-Gram Frequency Builder](https://github.com/Johnog94/N-Gram-Frequency-Builder)
   - [Multi-Threaded Indexing API](https://github.com/Johnog94/Multi-Threaded-Indexing-API)
+  - [JUnit Test Cases for Insurance Program](https://github.com/Johnog94/JUnit-Test-Cases)
 - <b> Database Design and Development </b>
   - [Commercial Veterinary Database Project](https://github.com/Johnog94/Commercial-Veterinary-Database)
 - <b> Network Technologies </b>

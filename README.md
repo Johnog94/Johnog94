@@ -1,7 +1,7 @@
 
 <h1> Hi, I'm Jonathan! <br/><a href="https://github.com/Johnog94">Software Developer</a>, <a href="https://www.linkedin.com/in/jgriffey94/">Technical Customer Support Executive</a> </h1>
 
-<h3> I am a former IT recruitment Consultant from Co.Clare, Ireland, and a software development student who has just completed an HDip in Software Development from ATU Galway. I have also previously completed a Master's in Information System Management from NUIG </h3>
+<h3> I am a former IT recruitment Consultant from Co.Clare, Ireland, and a software development student who has just completed an HDip in Software Development from ATU Galway. I have also previously completed a Master's in Information System Management from NUIG. I am also starting a new role as a Techincal Customer Support Executive</h3>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
